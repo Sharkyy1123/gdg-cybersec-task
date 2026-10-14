@@ -20,8 +20,9 @@ i used gdb then tried to disassemble the function and boom i got some thing
 
 using the hex values and ordering them in the right way we get the follwoing hex values (62 61 62 7e 55 34 40 5a 36 7d 75 69 35 34 71 60 61 5a 69 6a 69 78)
 
-now if we look at the same image we can see an XOR (0x05) written 
+now if we look at the same image we can see an XOR (0x5) written 
 
 bingo! i then inputed the value in cyberchef and used xor to it using the key 0x05 and got the flag ( gdg{P1E_3xpl01ted_lol} ) 
 
-<img width="1837" height="871" alt="image" src="https://github.com/user-attachments/assets/8470323b-cdd8-418b-bf6f-c9f5fc9ea628" />
+<img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/14d43356-9025-488b-86c3-9e96bcd0579e" />
+
