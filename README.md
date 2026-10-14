@@ -22,7 +22,7 @@ using the hex values and ordering them in the right way we get the follwoing hex
 
 now if we look at the same image we can see an XOR (0x5) written 
 
-bingo! i then inputed the value in cyberchef and used xor to it using the key 0x05 and got the flag ( gdg{P1E_3xpl01ted_lol} ) 
+bingo! i then inputed the value in cyberchef and used xor to it using the key 0x5 and got the flag ( gdg{P1E_3xpl01ted_lol} ) 
 
 <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/14d43356-9025-488b-86c3-9e96bcd0579e" />
 
