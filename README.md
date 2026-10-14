@@ -3,7 +3,7 @@
 
 #this is the write up for the first task assigned 
 
-at first i checked wheather the sha256 key matched with the file 
+at first i checked whether the sha256 key matched with the file 
 <img width="1122" height="63" alt="image" src="https://github.com/user-attachments/assets/cedf62a9-4ab1-4f8c-b181-86702a68cabd" />
 
 then i was looking into what type of file this is, turns out it is 
@@ -22,7 +22,7 @@ using the hex values and ordering them in the right way we get the follwoing hex
 
 now if we look at the same image we can see an XOR (0x5) written 
 
-bingo! i then inputed the value in cyberchef and used xor to it using the key 0x5 and got the flag ( gdg{P1E_3xpl01ted_lol} ) 
+bingo! i then put the value in cyberchef and used xor to it using the key 0x5 and got the flag ( gdg{P1E_3xpl01ted_lol} ) 
 
 <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/14d43356-9025-488b-86c3-9e96bcd0579e" />
 
